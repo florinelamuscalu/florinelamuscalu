@@ -4,7 +4,7 @@
 #### 💻Bachelor's Degree Student, 3rd year💻
 
 
-I am student at Faculty of Mathematics and Computer Science, University of Bucharest https://fmi.unibuc.ro/
+I am student at <a href = "https://fmi.unibuc.ro"> "Faculty of Mathematics and Computer Science, University of Bucharest </a>
 
 💎Object Oriented Programming: C++, Java
 
@@ -15,6 +15,10 @@ I am student at Faculty of Mathematics and Computer Science, University of Bucha
 ✫ Manipulating data from a database: SQL
 
 ✤ Computer programming: C
+
+### More about me
+
+
 
 
 
