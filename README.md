@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi, I'm Flori 👋
+#### 💻Bachelor's Degree Student, 3rd year💻
+![💻Bachelor's Degree Student, 3rd year💻](https://pbs.twimg.com/profile_images/795713752305909760/kWpOyDhW.jpg)
 
-<!--
-**florinelamuscalu/florinelamuscalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am student at Faculty of Mathematics and Computer Science, University of Bucharest https://fmi.unibuc.ro/
 
-Here are some ideas to get you started:
+💎Object Oriented Programming: C++, Java,
+🎀Web technologies: HTML5, CSS, JavaScript
+📉 Probabilities and statistics: R
+✫ Manipulating data from a database: SQL
+✤ Computer programming: C
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
