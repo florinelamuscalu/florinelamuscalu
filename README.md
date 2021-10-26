@@ -2,7 +2,6 @@
 
 ### Hi, I'm Flori 👋
 #### 💻Bachelor's Degree Student, 3rd year💻
-![💻Bachelor's Degree Student, 3rd year💻]
 
 
 I am student at Faculty of Mathematics and Computer Science, University of Bucharest https://fmi.unibuc.ro/
