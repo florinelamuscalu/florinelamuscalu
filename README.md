@@ -7,7 +7,7 @@
 
 I am student at Faculty of Mathematics and Computer Science, University of Bucharest https://fmi.unibuc.ro/
 
-💎Object Oriented Programming: C++, Java,
+💎Object Oriented Programming: C++, Java
 🎀Web technologies: HTML5, CSS, JavaScript
 📉 Probabilities and statistics: R
 ✫ Manipulating data from a database: SQL
