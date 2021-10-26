@@ -8,7 +8,7 @@ I am student at <a href = "https://fmi.unibuc.ro"> Faculty of Mathematics and Co
 
 💎Object Oriented Programming: C++, Java, Python
 
-🎀Web technologies: HTML5, CSS, JavaScript
+🎀Web technologies: HTML5, CSS, JavaScript, PHP
 
 📉 Probabilities and statistics: R
 
