@@ -1,7 +1,6 @@
 <img src = "https://pbs.twimg.com/profile_images/795713752305909760/kWpOyDhW.jpg" width="350" height="400" align="right"/> 
 
 ### Hi, I'm Flori 👋
-#### 💻Bachelor's Degree Student, 3rd year💻
 
 
 I am student at <a href = "https://fmi.unibuc.ro"> Faculty of Mathematics and Computer Science, University of Bucharest </a>
