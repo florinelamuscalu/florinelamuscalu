@@ -3,7 +3,7 @@
 ### Hi, I'm Flori 👋
 
 
-I am student at <a href = "https://fmi.unibuc.ro"> Faculty of Mathematics and Computer Science, University of Bucharest </a>
+Successfully graduating from the <a href = "https://fmi.unibuc.ro"> Faculty of Mathematics and Computer Science, University of Bucharest </a>
 
 💎Object Oriented Programming: C++, Java, Python
 
@@ -14,6 +14,10 @@ I am student at <a href = "https://fmi.unibuc.ro"> Faculty of Mathematics and Co
 ✫ Manipulating data from a database: SQL
 
 ✤ Computer programming: C
+
+💻 Operating System: Windows, Linux
+
+
 
 ### More about me
 
