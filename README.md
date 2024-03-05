@@ -21,8 +21,5 @@ Successfully graduating from the <a href = "https://fmi.unibuc.ro"> Faculty of M
 
 ### More about me
 
-  <p>I'm a pretty open-minded person, a fast learner, very ambitious and striving for success in everything that I do.
-     I like socializing and meeting new people, even though I may seem a bit shy at first. Some of my hobbies
-     include cooking and coding/programming, as I usually like to learn new stuff by myself in order to progress
-     further and further. I enjoy working as part of a team, but also single-handedly carrying out tasks in order to challenge myself. </p>
+  <p> Passionate about technology, efficient infrastructure management and IT processes automation. I'm a DevOps engineer and I want to expand my knowledge and contribute to the development of technological solutions in a dynamic and collaborative environment. I'm open to new challenges, fast learner and very ambitious. </p>
 
